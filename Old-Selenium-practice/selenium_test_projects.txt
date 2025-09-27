@@ -1,0 +1,37 @@
+
+Selenium Test Projects (Beginner Friendly)
+==========================================
+
+Project 1: Quotes Scraper
+--------------------------
+Target Site: http://quotes.toscrape.com
+Task:
+- Open browser using Selenium.
+- Scrape all quotes (text + author name) from the first page.
+- Save the data into a CSV or Excel file.
+
+Skills Shown:
+- Navigation, element selection, text extraction, saving data.
+
+
+Project 2: Login Automation (Demo Site)
+----------------------------------------
+Target Site: https://practicetestautomation.com/practice-test-login/
+Task:
+- Open browser and navigate to the login page.
+- Enter correct username and password.
+- Click login and verify if successful (check for "Logged In Successfully" text).
+
+Skills Shown:
+- Form filling, button click, validation, automation testing basics.
+
+
+Project 3: Google Search Automation
+------------------------------------
+Task:
+- Open Google in browser.
+- Search for "Python Selenium tutorial".
+- Scrape and print all result titles from the first page.
+
+Skills Shown:
+- Form input, dynamic content scraping, handling search results.
